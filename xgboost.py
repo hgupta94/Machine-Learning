@@ -100,25 +100,3 @@ xgb_preds_final = xgb_preds_final[['row', 'target1', 'target2']]
 xgb_preds_final['target1'] = round(xgb_preds_final['target1'],2)
 xgb_preds_final['target2'] = round(xgb_preds_final['target2'],2)
 xgb_preds_final.to_csv('xgb_predictions.csv', index=False)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
