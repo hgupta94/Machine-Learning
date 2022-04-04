@@ -1,19 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Nov 12 13:36:47 2019
-
-@author: hirsh
-"""
-
-
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Nov 10 12:30:42 2019
-
-@author: hirsh
-"""
-
-
 import pandas as pd
 import numpy as np
 
